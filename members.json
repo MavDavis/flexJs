@@ -1,0 +1,93 @@
+{
+    "members": [{
+            "firstname": "Luchi",
+            "lastname": "Luchi",
+            "img": "'images/luchi.jpg'",
+            "bestmovie": "Teen Wolf",
+            "complexion": "Dark skin",
+            "birthmonth": "March",
+            "state": "Anambra",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "David",
+            "lastname": "Marvelous",
+            "img": "'images/mavDavis.png'",
+            "bestmovie": "Teen Wolf",
+            "complexion": "Dark skin",
+            "birthmonth": "March",
+            "state": "Anambra",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "Simple",
+            "lastname": "Soul",
+            "img": "'images/simplesoul.jpg'",
+            "bestmovie": "",
+            "complexion": "Light skin",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "Cynthia",
+            "lastname": "Cynthia",
+            "img": "'images/cynthia.jpg'",
+            "bestmovie": "",
+            "complexion": "Fair",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "Tolu",
+            "lastname": "Tolu",
+            "img": "'images/tolzMan.jpg'",
+            "bestmovie": "",
+            "complexion": "Dark skin",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "HayJ",
+            "lastname": "HayJ",
+            "img": "'images/Tj.png'",
+            "bestmovie": "",
+            "complexion": "Fair",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "Danny",
+            "lastname": "Danny",
+            "img": "'images/danny.png'",
+            "bestmovie": "",
+            "complexion": "Dark",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "Etinosa",
+            "lastname": "s",
+            "img": "'images/Etinosa.jpg'",
+            "bestmovie": "",
+            "complexion": "Dark",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        },
+        {
+            "firstname": "OreSauce",
+            "lastname": "Oresauce",
+            "img": "'images/oreSauce.jpg'",
+            "bestmovie": "",
+            "complexion": "Fair",
+            "birthmonth": "",
+            "state": "",
+            "groupname": "Zeus"
+        }
+    ]
+}
